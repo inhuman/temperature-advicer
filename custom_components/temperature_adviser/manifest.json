@@ -4,7 +4,7 @@
   "documentation": "https://github.com/inhuman/temperature-adviser/wiki",
   "issue_tracker": "https://github.com/inhuman/temperature-adviser/issues",
   "codeowners": ["@inhuman"],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "iot_class": "cloud_polling",
   "requirements": []
 }
