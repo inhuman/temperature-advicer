@@ -1,0 +1,8 @@
+{
+  "name": "Temperature Adviser",
+  "country": "RU",
+  "render_readme": false,
+  "domains": ["temperature_adviser"],
+  "zip_release": false,
+  "homeassistant":  "2021.12.0"
+}
