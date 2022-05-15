@@ -1,0 +1,10 @@
+{
+  "domain": "temperature_adviser",
+  "name": "Temperature Adviser",
+  "documentation": "https://github.com/inhuman/temperature-adviser/wiki",
+  "issue_tracker": "https://github.com/inhuman/temperature-adviser/issues",
+  "codeowners": ["@inhuman"],
+  "version": "0.1.1",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
